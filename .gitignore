@@ -1,0 +1,9 @@
+*.toc 
+*.log 
+*.aux 
+*.desktop 
+.Rhistory 
+*.out 
+*.gz 
+*synctex..gz 
+*synctex.gz 
